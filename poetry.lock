@@ -706,7 +706,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "045141db4e3ad0405da24bb8664fa721236d0184f537c772e97580ce2ce2e564"
+content-hash = "7775374f675ff33b101f6a6406ffae96cdbdafb9da4862d606105dc78430ce38"
 
 [metadata.files]
 blis = [
