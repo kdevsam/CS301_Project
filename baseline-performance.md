@@ -9,6 +9,8 @@ Below are the results of using the test images from satellites along with their 
 
 ## Performance
 
-#
+# Image -> Test -> Prediction
 
-![alt text](https://github.com/kdevsam/CS301_Project/blob/milestone-2/images/img1.png?raw=true)
+![alt text](https://github.com/kdevsam/CS301_Project/blob/milestone-2/images/img1.PNG?raw=true)
+![alt text](https://github.com/kdevsam/CS301_Project/blob/milestone-2/images/test1.PNG?raw=true)
+![alt text](https://github.com/kdevsam/CS301_Project/blob/milestone-2/images/pred1.PNG?raw=true)
