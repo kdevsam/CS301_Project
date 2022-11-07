@@ -12,7 +12,10 @@ segmentation-models = "^1.0.1"
 keras-models = "^0.0.7"
 keras-utils = "^1.0.13"
 opencv-python = "^4.6.0.66"
+matplotlib = "^3.6.2"
 
+[tool.poetry.scripts]
+main = "cs301.228_training_aerial_imagery:start"
 
 [build-system]
 requires = ["poetry-core"]
